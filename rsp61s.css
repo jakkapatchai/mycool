@@ -8,14 +8,14 @@ fieldset{margin:10px 0px 0px 0px;padding:0px}
 legend{
 margin:10px;
 border-radius:10px;padding:5px;font-family:Sawasdee; 
-background-color:yellow;color:blue;font-size:30px;display:block;
+background-color:black;color:white;font-size:30px;display:block;
 padding:5 20 0 10;
 border:2px outset #dddddd !important;
 border-radius:5px 20px !important;
 }
 .topbar{
-background-image: url("c.jpg");	
-width:100%;font-size:20px;background-color:pink;color:white;text-align:center;height:100px;padding:0px;border-spacing:0px;border-style:none
+background-image: url("พท้นหลัง.jpg");	
+width:100%;font-size:20px;background-color:black;color:white;text-align:center;height:100%;padding:0px;border-spacing:0px;border-style:none
 } 
 .topbar a:link, .topbar a:visited{color:blue;text-decoration:none} 
 .topbar td {text-align:center} 
@@ -28,11 +28,11 @@ width:100%;font-size:20px;background-color:pink;color:white;text-align:center;he
 @media only screen and (min-width:321px) and (max-width:375px) { .m_still{visibility:visible;width:321px} .m_min400, .m_min300{width:321px;} .m_hidden{visibility:hidden;display:none} } 
 @media only screen and (min-width:376px) and (max-width:414px) { .m_still{visibility:visible;width:376px} .m_min400, .m_min300{width:376px;} .m_hidden{visibility:hidden;display:none} }
 @media only screen and (min-width:414px) and (max-width:728px) { .m_still{visibility:visible;width:414px} .m_min400, .m_min300{width:414px;} .m_hidden{visibility:hidden;display:none} }
-#bar_topnav{width:100%;height:30px;background-color:black;margin:0px 0px 0px 0px;padding:0px;border-spacing:0px;border-style:none}
+#bar_topnav{width:100%;height:30px;background-color:white;margin:0px 0px 0px 0px;padding:0px;border-spacing:0px;border-style:none}
 ul.topnav{list-style-type: none;margin:0px;padding:0px;overflow:hidden;background-image:url(rspbar.png)}
 ul.topnav li{float:left}
-ul.topnav li a {display:inline-block;margin:0px;color:pink;text-align:center;padding:5px 5px;text-decoration:none;font-size:15px;height:20px}
-ul.topnav li a:hover {color:#ffffff;}
+ul.topnav li a {display:inline-block;margin:0px;color:black;text-align:center;padding:5px 5px;text-decoration:none;font-size:15px;height:20px}
+ul.topnav li a:hover {color:red;}
 ul.topnav li.icon {display:none}
 @media screen and (max-width:414px){ 
 ul.topnav li:not(:first-child) {display: none} 
